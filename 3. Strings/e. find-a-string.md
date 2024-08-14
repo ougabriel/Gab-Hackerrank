@@ -1,6 +1,6 @@
-##Doc
-##Author: Ugochi Gabriel Okom
-##Date: 14/08/2024
+###Doc
+###Author: Ugochi Gabriel Okom
+###Date: 14/08/2024
 
 
 I just completed this Hackerrank String Challenge: 
